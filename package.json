@@ -32,7 +32,7 @@
   "homepage": "https://github.com/unlight/gulp-extract-media-queries#readme",
   "devDependencies": {
     "gulp-file": "^0.3.0",
-    "mocha": "^3.2.0"
+    "mocha": "^8.2.1"
   },
   "directories": {
     "test": "test"
